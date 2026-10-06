@@ -69,7 +69,7 @@
             margin: 12px 15px 5px 15px; 
             padding: 8px 10px; 
             border-radius: 10px;
-            background: rgba(0, 0, 0, 0.8); 
+            background: rgba(0, 0, 0, 0.2); 
             backdrop-filter: blur(5px); 
             -webkit-backdrop-filter: blur(5px);
             border: 1px solid rgba(251, 211, 97, 0.2); 
@@ -89,7 +89,7 @@
             text-align: right; 
             margin: 0 15px; 
             padding: 12px 15px; border-radius: 10px;
-            background: rgba(0, 0, 0, 0.8); 
+            background: rgba(0, 0, 0, 0.1); 
             backdrop-filter: blur(5px); 
             -webkit-backdrop-filter: blur(5px);
             border: 1px solid rgba(251, 211, 97, 0.2); 
@@ -124,7 +124,7 @@
         }
 
     </style>
-<meta property="og:title" content="پوستر خەتمی قورئان - نسخه نهایی هماهنگ" data-id="th-modified"><meta name="description" content="index" data-id="th-modified"><meta property="og:description" content="index" data-id="th-modified"><meta property="og:image" content="https://tiiny.host/assets/logo-purple-bg.png" data-id="th-modified"><meta property="og:image:width" content="1501" data-id="th-modified"><meta property="og:image:height" content="1501" data-id="th-modified"><meta property="og:image:type" content="image/png" data-id="th-modified"><meta property="og:url" content="https://coral-jacquenette-50.tiiny.site/" data-id="th-modified"><meta property="og:type" content="website" data-id="th-modified"><script type="text/javascript" src="https://tiiny.host/ad-script.js"></script><script defer="" data-domain="coral-jacquenette-50.tiiny.site" src="https://analytics.tiiny.net/js/plausible.js"></script></head>
+<meta property="og:title" content="پوستر خەتمی قورئان - نسخه نهایی هماهنگ" data-id="th-modified"><meta name="description" content="index" data-id="th-modified"><meta property="og:description" content="index" data-id="th-modified"><meta property="og:image" content="https://tiiny.host/assets/logo-purple-bg.png" data-id="th-modified"><meta property="og:image:width" content="1501" data-id="th-modified"><meta property="og:image:height" content="1501" data-id="th-modified"><meta property="og:image:type" content="image/png" data-id="th-modified"><meta property="og:url" content="https://quran-poster.tiiny.site/" data-id="th-modified"><meta property="og:type" content="website" data-id="th-modified"><script defer="" data-domain="quran-poster.tiiny.site" src="https://analytics.tiiny.net/js/plausible.js"></script><script type="text/javascript" src="https://tiiny.host/ad-script.js"></script></head>
 <body>
 
     <div class="poster">
